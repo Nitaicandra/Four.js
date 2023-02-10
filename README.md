@@ -7,4 +7,5 @@ Line genration is done 1 axis at a time unitl it draws all of the lines for ever
 The algorthms are cyclic in nature and somwhat reminscent of the increasing order of binary numbers.
 
 
-![main ts_-_vanilla_-_Visual_Studio_Code_ Administra_49658_02_2023](https://user-images.githubusercontent.com/89361982/218053959-8bb0022c-39ac-4479-b142-7483465e3a58.gif)
+
+![main ts_-_src_-_Visual_Studio_Code_ Administrator _60034_02_2023](https://user-images.githubusercontent.com/89361982/218206645-18b8fb2c-ba83-4c1d-b36a-e0f3b021fc61.gif)
